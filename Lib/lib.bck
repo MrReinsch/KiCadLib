@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MicroStepper10mm
+D Micro Stepper 10mm
+K Stepper
+$ENDCMP
+#
+#End Doc Library
